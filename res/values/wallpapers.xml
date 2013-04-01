@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ * Copyright (C) 2009 Google Inc.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ -->
+
+<resources>
+    <string-array name="wallpapers" translatable="false">
+        <item>wallpapers_1</item>
+        <item>wallpapers_2</item>
+        <item>wallpapers_3</item>
+        <item>wallpapers_4</item>
+        <item>wallpapers_5</item>
+        <item>wallpapers_6</item>
+        <item>wallpapers_7</item>
+        <item>wallpapers_8</item>
+        <item>wallpapers_9</item>
+        <item>wallpapers_10</item>
+        <item>wallpapers_11</item>
+        <item>wallpapers_12</item>
+        <item>wallpapers_13</item>
+        <item>wallpapers_14</item>
+        <item>wallpapers_15</item>
+        <item>wallpapers_16</item>
+        <item>wallpapers_17</item>
+        <item>wallpapers_18</item>
+    </string-array>
+
+    <string-array name="info" translatable="false">
+        <item>C-RoM Mix-1</item>
+        <item>C-RoM Mix-2</item>
+        <item>C-RoM Mix-3</item>
+        <item>C-RoM Mix-4</item>
+        <item>Wallpapers</item>
+        <item>Wallpapers</item>
+        <item>Wallpapers</item>
+        <item>Wallpapers</item>
+        <item>Paris la Tour Eiffel</item>
+        <item>Lighthouse</item>
+        <item>Wallpapres</item>
+        <item>Water Lily</item>
+        <item>Urban Dream</item>
+        <item>Horseshoe Bend Sunset</item>
+        <item>Lake Tahoe Colors</item>
+        <item>Leaves</item>
+        <item>Ink Spill</item>
+        <item>Fabric Touch</item>
+    </string-array>
+</resources>
