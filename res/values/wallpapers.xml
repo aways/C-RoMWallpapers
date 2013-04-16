@@ -35,6 +35,7 @@
         <item>wallpapers_16</item>
         <item>wallpapers_17</item>
         <item>wallpapers_18</item>
+        <item>wallpapers_19</item>
     </string-array>
 
     <string-array name="info" translatable="false">
@@ -42,6 +43,7 @@
         <item>C-RoM Mix-2</item>
         <item>C-RoM Mix-3</item>
         <item>C-RoM Mix-4</item>
+        <item>C-RoM Mix-5</item>
         <item>Wallpapers</item>
         <item>Wallpapers</item>
         <item>Wallpapers</item>
