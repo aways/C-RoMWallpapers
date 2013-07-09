@@ -36,6 +36,9 @@
         <item>wallpapers_17</item>
         <item>wallpapers_18</item>
         <item>wallpapers_19</item>
+        <item>wallpapers_20</item>
+        <item>wallpapers_21</item>
+        <item>wallpapers_22</item>
     </string-array>
 
     <string-array name="info" translatable="false">
@@ -58,5 +61,8 @@
         <item>Leaves</item>
         <item>Ink Spill</item>
         <item>Fabric Touch</item>
+        <item>C-RoM-6</item>
+        <item>C-RoM-7</item>
+        <item>C-RoM-8</item>
     </string-array>
 </resources>
